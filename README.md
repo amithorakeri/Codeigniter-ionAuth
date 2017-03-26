@@ -1,7 +1,7 @@
 # Codeigniter Ion Auth Tutorial
 Codeigniter Ion Auth Library Integration - A step by step guide
 
-**You will find the video tutorial guide here  - https://youtu.be/XwVVrhuDuqs**
+**You will find the video tutorial guide here  - https://youtu.be/fucEtLz-PsI**
 
 
 Ion Auth is a simple and lightweight authentication library for the CodeIgniter framework.
